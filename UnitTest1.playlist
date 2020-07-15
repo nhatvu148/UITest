@@ -1,0 +1,5 @@
+<Playlist Version="1.0">
+  <Add Test="UITest1.PreTest.TestMethod1" />
+  <Add Test="UITest1.SolverTest.TestMethod1" />
+  <Add Test="UITest1.PostTest.TestMethod1" />
+</Playlist>
